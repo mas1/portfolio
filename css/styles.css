@@ -1,0 +1,25 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #2D3C49;
+}
+img {
+
+}
+hr {
+  height: 3px;
+  background: #7D97AD;
+  margin: 20px 15px;
+}
+#logo {
+  margin-top: 20px;
+}
+#featured-work {
+  margin-bottom: 50px;
+}
+.text-muted {
+  color: #7D97AD
+}
+.text-thin{
+  font-weight: 100;
+}
